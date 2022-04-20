@@ -2,13 +2,5 @@
   {
     "package": "languageserver",
     "url": "https://github.com/REditorSupport/languageserver"
-  },
-  {
-    "package": "lintr",
-    "url": "https://github.com/r-lib/lintr"
-  },
-  {
-    "package": "styler",
-    "url": "https://github.com/r-lib/styler"
   }
 ]
