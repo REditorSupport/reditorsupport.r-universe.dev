@@ -2,5 +2,10 @@
   {
     "package": "languageserver",
     "url": "https://github.com/REditorSupport/languageserver"
+  },
+  {
+    "package": "sess",
+    "url": "https://github.com/REditorSupport/vscode-R",
+    "subdir": "sess"
   }
 ]
