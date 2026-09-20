@@ -4,6 +4,11 @@
     "url": "https://github.com/REditorSupport/languageserver"
   },
   {
+      "package": "jgd",
+      "url": "https://github.com/REditorSupport/jgd",
+      "subdir": "r-pkg"
+  },
+  {
     "package": "sess",
     "url": "https://github.com/REditorSupport/vscode-R",
     "subdir": "sess"
